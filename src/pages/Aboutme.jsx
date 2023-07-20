@@ -87,7 +87,7 @@ export default function App(){
               lineHeight="shorter"
               letterSpacing="tight"
             >
-              All-in-one platform
+              ABout Me:
             </chakra.h2>
             <chakra.p
               mb={6}
@@ -96,8 +96,10 @@ export default function App(){
               color="gray.600"
               _dark={{ color: "gray.500" }}
             >
-              Lorem ipsum dolor sit amet consect adipisicing elit. Possimus
-              magnam voluptatum cupiditate veritatis in accusamus quisquam.
+              Logical and results-driven Web Developer dedicated to building and optimizing user-focused websites for customers with various business objectives. Judicious and creative when crafting effective websites, apps and platforms to propel competitive advantage and 
+              revenue growth. Technically proficient and analytical problem solver with calm and focused demeanor. In developing new user-facing features using React.js I was able to manages day-to-day content maintenance of websites to provide users consistent accurate, 
+              appropriate, timely and up-to-date information. Also collaborates with and influencing cross-functional teams and leadership on content strategy, creation, distribution reviews and troubleshoots routine website issues. Lots of experience with codes in HTML, 
+              CSS, JavaScript, PHP, jQuery. Experience with MySQL and Angular a plus. Ensures websites meet ADA accessibility standards.
             </chakra.p>
           </Box>
           <GridItem colSpan={2}>
@@ -108,33 +110,43 @@ export default function App(){
               gridColumnGap={{ md: 8 }}
               gridRowGap={{ md: 10 }}
             >
-              <Feature title="Invite team members">
-                Improve your conversion rates by monitoring exactly what’s going
-                on while your customers are in trial.{" "}
+              <Feature title="Developing new user-facing features using React.js">
+              In developing new user-facing features using React.js I was able to manage day-to-day content maintenance
+                 of websites to provide users consistent,accurate, appropriate, timely and up-to-date information.
+                 Also collaborates with and influencing cross-functional teams and leadership on content strategy, creation, 
+                 distribution reviews and troubleshoots routine website issues. Lots of experience with codes in HTML, CSS, 
+                 JavaScript, PHP, jQuery, MySQL and Angular a plus.{" "}
               </Feature>
-              <Feature title="Unify your payments stack">
-                Manage all your online and offline sales in one place with a
-                single integration, simplifying reporting and reconciliation.
+              <Feature title="Graphic design and UI experience.">
+              As a UI Developer we gather and analyze system requirements, document specifications, and develop software solutions to meet client needs and data. As well as analyze and review enhancement 
+              requests and specifications, implement system software, code new programs to client's specifications and create test data for testing modify existing programs to new standards; and conduct 
+              unit testing of developed programs.
               </Feature>
-              <Feature title="Own your in-store experience">
+              <Feature title="Translating designs and wireframes">
+              In translating designs and wireframes into high quality code I Develop technologies to maintain our market leadership using the latest tools and frameworks. Write software in accordance 
+              with requirements and specifications and use best practices to build in high-quality. Debug and validate software issues on the latest and greatest unreleased products as well as those encountered by customers.
                 {" "}
                 Provide a seamless customer experience across channels, like
                 reserving online and picking up in store.
               </Feature>
-              <Feature title="Grow your platform’s revenue">
+              <Feature title="Built Successful User friendly Applications.">
                 {" "}
-                Add in-person payments to your platform or marketplace. Using
-                Terminal with Connect.{" "}
+                Building successful applications requires a thoughtful and strategic approach, combining technical expertise with user-centric design and a deep understanding of the target audience and market. Here are some 
+                key elements to consider when aiming for success:{" "}
               </Feature>
-              <Feature title="Clear overview for efficient tracking">
+              <Feature title="Experience in Java Technologies.">
                 {" "}
-                Handle your subscriptions and transactions efficiently with the
-                clear overview in Dashboard. Fea
+                Experience in Java Technologies refers to a developer's proficiency and hands-on knowledge of Java programming language and the ecosystem of tools and frameworks associated with it. Java is a versatile, 
+                object-oriented programming language widely used for developing a variety of applications, from web and mobile applications to enterprise-level systems.
               </Feature>
-              <Feature title="Decide how you integrate Payments">
+              <Feature title="A Expert in the Agile Approach.">
                 {" "}
-                Love to code? Decide how you integrate Payments and build
-                advanced and reliable products yourself from scratch.{" "}
+                Iterative or agile project management focuses on delivering maximum 
+               value against business priorities in the time and budget allowed, especially when the drive to deliver is greater 
+               than the risk. When approaching agile project management for the first time, it becomes apparent that there are 
+               various trains of thought. The project breaks a requirement into smaller pieces, which are then prioritised by 
+               the team in terms of importance. The Agile approach also promotes collaborative working, especially with the 
+               customer.{" "}
               </Feature>
             </Stack>
           </GridItem>

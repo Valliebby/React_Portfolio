@@ -28,7 +28,7 @@ export default function App(){
           h={56}
           fit="cover"
           objectPosition="center"
-          src="https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80"
+          src="."
           alt="avatar"
         />
 
@@ -47,7 +47,7 @@ export default function App(){
             color="gray.800"
             _dark={{ color: "white" }}
           >
-            Patterson johnson
+            Valerie Elizabeth
           </chakra.h1>
 
           <chakra.p py={2} color="gray.700" _dark={{ color: "gray.400" }}>
@@ -77,7 +77,7 @@ export default function App(){
             <Icon as={MdLocationOn} h={6} w={6} mr={2} />
 
             <chakra.h1 px={2} fontSize="sm">
-              California
+              Austin TX
             </chakra.h1>
           </Flex>
           <Flex
@@ -89,7 +89,7 @@ export default function App(){
             <Icon as={MdEmail} h={6} w={6} mr={2} />
 
             <chakra.h1 px={2} fontSize="sm">
-              patterson@example.com
+              vewebdevelopment@gmail.com
             </chakra.h1>
           </Flex>
         </Box>

@@ -1,17 +1,17 @@
-// import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "./App.css";
 import Aboutme from "./pages/Aboutme";
 import Contacts from "./pages/Contacts";
 import NavBar from "./components/NavBar";
-// import Header from "./pages/Header";
 import Footer from "./components/Footer";
 import Portfolio from "./pages/Portfolio";
 import Resume from "./pages/Resume";
+import { ChakraProvider } from '@chakra-ui/react'
 
 function App() {
   return (
     <>
+    <ChakraProvider>
       <BrowserRouter> {/* Router component to enable routing */}
         <NavBar/> {/* Render the navigation bar */}
         <Routes> {/* Component to define the routes */}
@@ -23,6 +23,7 @@ function App() {
         </Routes>
         <Footer/>
       </BrowserRouter>
+      </ChakraProvider>
     </>
   );
 }
