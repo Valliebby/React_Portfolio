@@ -1,6 +1,11 @@
 import React, { useState } from "react";
 import { Box, Flex, HStack, Image, Stack, Text } from "@chakra-ui/react";
 
+import myPort from "../assets/images/myport.jpg"
+import pct from "../assets/images/PCT.jpg"
+import pct1 from "../assets/images/PCT1.jpg"
+import weather from "../assets/images/weather.jpg"
+
 export default function App(){
   const arrowStyles = {
     cursor: "pointer",
@@ -23,23 +28,23 @@ export default function App(){
 
   const slides = [
     {
-      img: "https://images.pexels.com/photos/2599537/pexels-photo-2599537.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      img: myPort,
       label: "First Slide",
       description: "Nulla vitae elit libero, a pharetra augue mollis interdum.",
     },
     {
-      img: "https://images.pexels.com/photos/2714581/pexels-photo-2714581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      img: pct,
       label: "Second Slide",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     },
     {
-      img: "https://images.pexels.com/photos/2878019/pexels-photo-2878019.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      img: pct1,
       label: "Third Slide",
       description:
         "Praesent commodo cursus magna, vel scelerisque nisl consectetur.",
     },
     {
-      img: "https://images.pexels.com/photos/1142950/pexels-photo-1142950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      img: weather,
       label: "Fourth Slide",
       description: "Nulla vitae elit libero, a pharetra augue mollis interdum.",
     },
