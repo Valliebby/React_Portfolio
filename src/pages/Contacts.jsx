@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Flex, Icon, Image, chakra, SimpleGrid, GridItem, Heading, Text,} from "@chakra-ui/react";
+import { Box, Flex, Icon, Button, Image, chakra, Select, SimpleGrid, GridItem, Heading, Text, Stack, FormControl, FormLabel, Input,} from "@chakra-ui/react";
 
 import { MdEmail, MdHeadset, MdLocationOn } from "react-icons/md";
 import { BsFillBriefcaseFill } from "react-icons/bs";
