@@ -52,7 +52,7 @@ export default function App(){
               <Button variant="ghost"><Link to = "/Aboutme">ABout Me</Link></Button>
               <Button variant="ghost"><Link to = "/Contacts">Contacts</Link></Button>
               <Button variant="ghost"><Link to = "/Portfolio">Portfolio</Link></Button>
-              <Button variant="ghost"><Link to = "/Resume">Resume</Link></Button>
+              <Button variant="ghost"><a href = "https://drive.google.com/file/d/1d3qVjeBq7Yyhr-SH_e8WFOE0Vul_sjMr/view?usp=sharing" target="_blank"rel="noreferrer">Resume</a></Button>
          
             </HStack>
             <Button colorScheme="brand" size="sm">
