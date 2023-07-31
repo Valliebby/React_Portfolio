@@ -3,7 +3,7 @@ import { Box, Flex, Icon, Button, Image, chakra, Select, SimpleGrid, GridItem, H
 
 import { MdEmail, MdHeadset, MdLocationOn } from "react-icons/md";
 import { BsFillBriefcaseFill } from "react-icons/bs";
-
+import me from "../assets/images/me.jpeg"
 export default function App(){
   return (
     <div>
@@ -29,7 +29,7 @@ export default function App(){
           h={56}
           fit="cover"
           objectPosition="center"
-          src="."
+          src={me}
           alt="avatar"
         />
 
