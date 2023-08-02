@@ -19,7 +19,7 @@ Getting Started
 Prerequisites
 Node.js and npm (Node Package Manager) must be installed on your system.
 Installation
-Clone the repository: git clone https://github.com/your-username/react-portfolio.git
+Clone the repository: git clone https://github.com/Valliebby/React_Portfolio.git
 
 Change into the project directory: cd react-portfolio
 
@@ -34,6 +34,8 @@ Running the Development Server
 Run the following command to start the development server:
 
 The portfolio website will be accessible at http://localhost:3000.
+
+Link: https://valliebby.github.io/React_Portfolio/
 
 Deployment
 To deploy your portfolio website, follow the deployment guidelines for popular hosting platforms like Netlify, Vercel, or GitHub Pages.
