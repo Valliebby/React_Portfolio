@@ -22,10 +22,10 @@ Technologies Used
 * CSS3
 * Choc UI
 
+
 Getting Started
-Prerequisites
-Node.js and npm must be installed on your system.
-Installation
+
+To run this project locally, follow these steps:
 
 Clone the repository: git clone https://github.com/Valliebby/React_Portfolio.git
 
@@ -33,13 +33,12 @@ Change into the project directory: cd react-portfolio
 
 Install dependencies: npm install
 
-Configuration
-Open the src/data/data.js file and update the information according to your details.
+Run the development server: npm start
+
+The portfolio website will be accessible at http://localhost:3000.
 
 Running the Development Server
 Run the following command to start the development server:
-
-The portfolio website will be accessible at http://localhost:3000.
 
 Link: https://valliebby.github.io/React_Portfolio/
 
