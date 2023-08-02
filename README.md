@@ -15,8 +15,7 @@ Features
 
 * Blog : A blog, integrate it into my portfolio to showcase your expertise and writing skills.
 
-
-* Technologies Used
+Technologies Used
 * React
 * JavaScript
 * HTML5
