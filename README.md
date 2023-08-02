@@ -55,3 +55,10 @@ The React Portfolio is open-source software licensed under the MIT License.
 
 Acknowledgments
 Special thanks to the open-source community for providing libraries, tools, and inspiration to create this React portfolio.
+
+
+
+https://github.com/Valliebby/React_Portfolio/assets/119483866/115a6e77-f9df-4f57-b4e3-1bb488113c41
+
+
+
