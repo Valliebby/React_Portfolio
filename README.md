@@ -15,6 +15,14 @@ Features
 
 * Blog : A blog, integrate it into my portfolio to showcase your expertise and writing skills.
 
+
+* Technologies Used
+* React
+* JavaScript
+* HTML5
+* CSS3
+* Choc UI
+
 Getting Started
 Prerequisites
 Node.js and npm must be installed on your system.
